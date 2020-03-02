@@ -17,4 +17,5 @@ public class Pokemon {
     private int pokemonTypeId;
 
     private int level;
+
 }
